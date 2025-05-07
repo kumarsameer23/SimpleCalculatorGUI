@@ -1,4 +1,4 @@
-package com.yourname.calculator;
+package com.Calculator_GUI.calculator;
 
 import javax.swing.*;
 import java.awt.*;
